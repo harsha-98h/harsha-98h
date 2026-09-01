@@ -202,9 +202,9 @@ A full-stack healthcare platform connecting patients, doctors and administrators
 
 📧 **Email:** [harshakatam9849@gmail.com](mailto:harshakatam9849@gmail.com)
 
-💼 **LinkedIn:** [Connect with me on LinkedIn](#)
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/harsha-katam-4a9707334/)
 
-🐙 **GitHub:** [Explore my repositories](#)
+🐙 **GitHub:** [Explore my repositories](https://github.com/harsha-98h/)
 
 ---
 
