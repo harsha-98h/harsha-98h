@@ -90,6 +90,12 @@ A mobile-first English learning platform designed around cinematic and themed le
 * 🔥 Daily active streak tracking
 * 📊 Reading metrics including words read, completion rate and time spent
 
+### 🔗 Project Links
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge\&logo=vercel\&logoColor=white)](https://story-flow-git-main-harsha-98hs-projects.vercel.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_STORYFLOW_GITHUB_LINK)
+
 ---
 
 ## 🤖 RepoScout
@@ -112,6 +118,12 @@ An intelligent CLI agent that searches and evaluates GitHub repositories based o
 * 🐳 Dockerized application
 * ☸️ Deployed on AWS Kubernetes / EKS
 
+### 🔗 Project Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_REPOSCOUT_GITHUB_LINK)
+
+[![Demo](https://img.shields.io/badge/Demo-Video-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](YOUR_REPOSCOUT_DEMO_LINK)
+
 ---
 
 ## 🏥 MediHive
@@ -126,28 +138,34 @@ A full-stack healthcare platform connecting patients, doctors and administrators
 
 #### 👤 Patients
 
-* Search doctors
-* Book appointments
-* Rate visits
-* Manage profiles
-* Browse medical store listings
+* 🔎 Search doctors
+* 📅 Book appointments
+* ⭐ Rate visits
+* 👤 Manage profiles
+* 🛒 Browse medical store listings
 
 #### 👨‍⚕️ Doctors
 
-* Appointment dashboard
-* Manage appointments
-* Mark appointments as completed
+* 📊 Appointment dashboard
+* 📅 Manage appointments
+* ✅ Mark appointments as completed
 
 #### 👨‍💼 Admins
 
-* Platform statistics
-* User management
+* 📈 Platform statistics
+* 👥 User management
 
 ### ☁️ Deployment
 
 * Frontend → Vercel
 * Backend → Railway
 * CI/CD → GitHub
+
+### 🔗 Project Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](YOUR_MEDIHIVE_GITHUB_LINK)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge\&logo=vercel\&logoColor=white)](YOUR_MEDIHIVE_LIVE_LINK)
 
 ---
 
@@ -192,9 +210,9 @@ A full-stack healthcare platform connecting patients, doctors and administrators
 
 # 🏆 Certifications & Training
 
-* 🎓 Java Development Internship — **TECHOCTANET**
-* 🔐 Palo Alto Cybersecurity Virtual Internship — **AICTE**
-* 🌐 Full Stack Web Application Development — **CODINZA**
+* 🎓 **Java Development Internship** — TECHOCTANET
+* 🔐 **Palo Alto Cybersecurity Virtual Internship** — AICTE
+* 🌐 **Full Stack Web Application Development** — CODINZA
 
 ---
 
